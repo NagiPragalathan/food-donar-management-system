@@ -12,7 +12,21 @@ The Food Donor Management System is a web-based application aimed at reducing fo
 
 ## Features
 
-...
+- Food Donation: Users can register as food donors and list their surplus food items for sale.
+- Food Purchase: Buyers can browse the available food listings and purchase the desired items.
+- Platform Independence: The application is designed to be platform independent, allowing users to access it from any web browser on their preferred device.
+- User Management: The system provides user registration, login, and authentication functionalities to maintain user profiles and ensure secure transactions.
+- Notifications: Users receive notifications for successful purchases, order updates, and other relevant information.
+- Search and Filters: Buyers can search for specific food items or apply filters based on categories, location, and other criteria.
+- Reviews and Ratings: Users can provide feedback and rate the food items and the overall donation experience.
+
+## Technologies Used
+
+- Python and Django: The backend of the application is developed using Python programming language and the Django web framework.
+- HTML, CSS, and JavaScript: The frontend of the application is built using standard web technologies for creating a user-friendly and interactive interface.
+- MongoDB: The database management system used to store user data, food listings, and transaction information.
+- Tailwind CSS: The Tailwind CSS framework is used for responsive and mobile-friendly design components.
+
 
 ## Technologies Used
 
